@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004645478938",
+    "project_id": "blocauth-e318e",
+    "storage_bucket": "blocauth-e318e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004645478938:android:7851d579e8090d936957a3",
+        "android_client_info": {
+          "package_name": "com.example.authall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004645478938-8jget1l93g6dsjacs744c0p9jenpbtk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR0FGSp2RSuV7RYQzujRvLQYSUZLOzebs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004645478938-8jget1l93g6dsjacs744c0p9jenpbtk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
